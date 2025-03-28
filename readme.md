@@ -142,7 +142,7 @@ print("Memory (using np.itemsize):", memory_numpy)
 1. **Clone the Repository:**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/jasp021/Numpy-tutorial.git
 ```
 
 2. **Navigate to the Directory:**
